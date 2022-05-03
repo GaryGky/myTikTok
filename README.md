@@ -1,2 +1,2 @@
-# myTikTok
-mini tiktok project
+# simple-demo
+ 
