@@ -1,4 +1,4 @@
-package controller
+package handler
 
 var DemoVideos = []Video{
 	{
